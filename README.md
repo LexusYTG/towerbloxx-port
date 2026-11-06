@@ -1,3 +1,7 @@
+# Legales: si eres el dueño de los derechos de autor de este juego y no quieres que este publuco este port ,porfavor, abre un issue y retirare el port, no quiero problemas legales y esto solo lo estoy haciendo por cariño al juego 
+
+
+
 # Tower Bloxx (port a Android)
 
 Port a Android de **Tower Bloxx** (Digital Chocolate, Java ME, MIDlet `DCDistrict`, versión MyCity N80). El juego corre de forma nativa en Android, sin emulador de J2ME: el código original del juego se ejecuta sobre una capa de compatibilidad MIDP escrita para este proyecto.
@@ -53,4 +57,4 @@ El script compila, instala, lanza el juego, lee logcat durante el tiempo indicad
 
 ## Aviso
 
-Tower Bloxx y el material original (código, gráficos, sonidos) pertenecen a Digital Chocolate y sus titulares. Este repositorio es un proyecto de preservación y aprendizaje, sin ánimo de lucro ni afiliación con los titulares. Si eres titular de derechos y quieres que se retire algo, abre un issue.
+Tower Bloxx y el material original (código, gráficos, sonidos) pertenecen a Digital Chocolate y sus titulares. Este repositorio es un proyecto de preservación y aprendizaje, sin ánimo de lucro ni afiliación con los titulares.
